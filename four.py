@@ -20,9 +20,21 @@
 #     n =n - 2
 # print(sum1)
 
-sum2 = 0
-s = 100
-while s > 0:           # 当s 大于0
-    sum2 = sum2 + s   # sum2 加上 0
-    s = s - 2        #
-print(sum2)
+# sum2 = 0
+# s = 100
+# while s > 0:           # 当s 大于0
+#     sum2 = sum2 + s   # sum2 加上 0
+#     s = s - 2        #
+# print(sum2)
+
+# n = 1
+# while n < 100:
+#     if n > 20: #当n 大于 21,执行break语句
+#         break # break break 结束当前循环
+#     print(n)
+#     n = n + 1
+# print('END')
+
+
+
+
