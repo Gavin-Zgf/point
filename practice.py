@@ -19,8 +19,8 @@ BMI = int(s)
 # print ('%s,你的身高是(cm)%.2f,体重(kg):%.2f,你的BMI：%.2f,你太胖了' % (name, h, w, BMI))
 if BMI<18.5:
     print('Hello,%s,你的身高:%.2f,体重是：%.2f,综合BMI:%.2f:体重过轻' %(name, h, w, BMI))
-elif BMI<25 :
-    print('Hello,%s,你的身高:%.2f,体重是：%.2f,综合BMI:%.2f:体重过轻' %(name, h, w, BMI))
+elif BMI<25:
+    print('Hello,%s,你的身高:%.2f,体重是：%.2f,综合BMI:%.2f:体重过轻' % (name, h, w, BMI))
 elif BMI<28 :
     print('%s,身高(cm):%.2f,体重是(kg)：%.2f,BMI:%.2f,你心里有点数没？' %(name, h, w, BMI))
 elif BMI<32 :
