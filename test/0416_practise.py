@@ -52,5 +52,4 @@ while xx != 0:
                 print("添加%s成功,新书架号为%d,感谢您的使用" % (book_name, book_values1))
     elif xx == '0':
         print("退出程序")
-    else:
         break

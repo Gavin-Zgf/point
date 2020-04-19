@@ -9,7 +9,7 @@
 #
 # # 要避免key不存在的错误，有两种办法，一是通过in判断key是否存在
 # print("Thomas" in d)
-#
+
 # # dict提供的一个get()方法，如果key不存在,可以返回None,或者是制定的value
 # print(d.get("Tony"))  # 返回None的时候Python的交互环境不显示结果
 # print(d.get("Tony", -1))
