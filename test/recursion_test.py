@@ -12,8 +12,8 @@
 #         move(n - 1, a, c, b)  # 将n-1块由a绕过c搬运至b
 #         print(a, '-->', c)  # 将最后一块最大块由a搬运至c
 #         move(n - 1, b, a, c)  # 将b上的n-1块由把绕过a搬运至c
-#
-#
+
+
 # print(move(4, 'A', 'B', 'C'))
 
 # 切片
